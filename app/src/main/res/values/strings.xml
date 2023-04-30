@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Note Saver</string>
+    <string name="notes">NOTES</string>
+    <string name="save_note">Save note?</string>
+    <string name="dont_save">Don\'t Save</string>
+    <string name="save">Save</string>
+    <string name="content_null">No Content Description</string>
+    <string name="note_title">New Note</string>
+    <string name="dummy_date">17 May, 2022</string>
+    <string name="warning">Warning!</string>
+    <string name="warning_info">A note with this name already exists!\nThis note will be overridden. Do you still want to save the file?</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+</resources>
